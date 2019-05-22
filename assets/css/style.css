@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: url("/Users/brandonquezada/git/WordGuessGame/assets/images/emojis-ethnically-diverse.jpg"); */
+}
+#boxes {
+    text-align: center;
+    margin: auto;
+}
+
+
+.container {
+    background-color:#1862cf;
+    opacity: 0.90;
+}
+
+#titleDiv { 
+    background-color: #1862cf;   
+    color: white;
+    
+}
+
+div.card-default {
+    background-color: #f9dd6c;
+    opacity: 0.90;
+}
+
+div.card-body {
+    background-color: #f7edc8;
+   
+}
+
+
+h2 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 52px;
+}
